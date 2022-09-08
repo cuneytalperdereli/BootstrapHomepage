@@ -44,4 +44,20 @@
     max-height: calc(100vh - 88px);
 }
 
+/*!  INSTRUCTOR */
+section#instructors .card{
+    transition: all 0.5s;
+}
+section#instructors .card:hover{
+    transform: scale(1.1);
+}
+
+section#instructors .socials i{
+    transition: opacity 0.5s;
+}
+section#instructors .socials i:hover{
+    opacity: 0.3;
+}
+
+
 
