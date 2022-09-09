@@ -58,8 +58,11 @@ section#instructors .socials i{
 section#instructors .socials i:hover{
     opacity: 0.3;
 }
-
+section#instructors .card{
+    margin-bottom: 1rem;
+}
 /*!  StUDENTS */
+
 
 section#students img{
     max-width: 450px;
